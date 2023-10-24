@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.exe
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.deps.json
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.runtimeconfig.json
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.dll
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.pdb
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.dll
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\refint\TypesAndVariables.dll
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.pdb
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\TypesAndVariables\TypesAndVariables\obj\Debug\net7.0\ref\TypesAndVariables.dll

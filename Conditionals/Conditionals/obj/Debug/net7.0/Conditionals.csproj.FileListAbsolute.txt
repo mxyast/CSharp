@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\bin\Debug\net7.0\Conditionals.exe
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\bin\Debug\net7.0\Conditionals.deps.json
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\bin\Debug\net7.0\Conditionals.runtimeconfig.json
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\bin\Debug\net7.0\Conditionals.dll
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\bin\Debug\net7.0\Conditionals.pdb
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.dll
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\refint\Conditionals.dll
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.pdb
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\Conditionals.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\Conditionals\Conditionals\obj\Debug\net7.0\ref\Conditionals.dll

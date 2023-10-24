@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\Methods\Methods\bin\Debug\net7.0\Methods.exe
+C:\Tobeto\1A\CSharp\Methods\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Tobeto\1A\CSharp\Methods\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Tobeto\1A\CSharp\Methods\Methods\bin\Debug\net7.0\Methods.dll
+C:\Tobeto\1A\CSharp\Methods\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.dll
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\Methods\Methods\obj\Debug\net7.0\ref\Methods.dll
