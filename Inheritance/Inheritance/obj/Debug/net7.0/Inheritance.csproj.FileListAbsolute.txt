@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\Inheritance\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
