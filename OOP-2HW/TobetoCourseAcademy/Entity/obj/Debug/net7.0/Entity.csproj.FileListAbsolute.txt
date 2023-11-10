@@ -1,0 +1,11 @@
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\bin\Debug\net7.0\Entity.dll
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\Entity.dll
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Tobeto\1A\CSharp\OOP-2HW\TobetoCourseAcademy\Entity\obj\Debug\net7.0\ref\Entity.dll
