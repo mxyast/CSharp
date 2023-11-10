@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\bin\Debug\net7.0\PerfectNumber.exe
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\bin\Debug\net7.0\PerfectNumber.deps.json
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\bin\Debug\net7.0\PerfectNumber.runtimeconfig.json
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\bin\Debug\net7.0\PerfectNumber.dll
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\bin\Debug\net7.0\PerfectNumber.pdb
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.dll
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\refint\PerfectNumber.dll
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.pdb
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\PerfectNumber.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\PerfectNumber\PerfectNumber\obj\Debug\net7.0\ref\PerfectNumber.dll

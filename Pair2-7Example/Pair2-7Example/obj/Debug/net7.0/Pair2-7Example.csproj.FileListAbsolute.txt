@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\bin\Debug\net7.0\Pair2-7Example.exe
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\bin\Debug\net7.0\Pair2-7Example.deps.json
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\bin\Debug\net7.0\Pair2-7Example.runtimeconfig.json
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\bin\Debug\net7.0\Pair2-7Example.dll
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\bin\Debug\net7.0\Pair2-7Example.pdb
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.dll
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\refint\Pair2-7Example.dll
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.pdb
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\Pair2-7Example.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\Pair2-7Example\Pair2-7Example\obj\Debug\net7.0\ref\Pair2-7Example.dll

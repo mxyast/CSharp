@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\bin\Debug\net7.0\UniqueCharacter.exe
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\bin\Debug\net7.0\UniqueCharacter.deps.json
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\bin\Debug\net7.0\UniqueCharacter.runtimeconfig.json
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\bin\Debug\net7.0\UniqueCharacter.dll
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\bin\Debug\net7.0\UniqueCharacter.pdb
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.dll
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\refint\UniqueCharacter.dll
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.pdb
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\UniqueCharacter.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\UniqueCharacter\UniqueCharacter\obj\Debug\net7.0\ref\UniqueCharacter.dll

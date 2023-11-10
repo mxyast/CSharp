@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\bin\Debug\net7.0\PerfectNumberWithPrime.exe
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\bin\Debug\net7.0\PerfectNumberWithPrime.deps.json
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\bin\Debug\net7.0\PerfectNumberWithPrime.runtimeconfig.json
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\bin\Debug\net7.0\PerfectNumberWithPrime.dll
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\bin\Debug\net7.0\PerfectNumberWithPrime.pdb
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.dll
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\refint\PerfectNumberWithPrime.dll
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.pdb
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\PerfectNumberWithPrime.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\PerfectNumberWithPrime\PerfectNumberWithPrime\obj\Debug\net7.0\ref\PerfectNumberWithPrime.dll

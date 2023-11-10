@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\bin\Debug\net7.0\GenericsIntro.exe
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\bin\Debug\net7.0\GenericsIntro.deps.json
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\bin\Debug\net7.0\GenericsIntro.runtimeconfig.json
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\bin\Debug\net7.0\GenericsIntro.dll
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\bin\Debug\net7.0\GenericsIntro.pdb
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.dll
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\refint\GenericsIntro.dll
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.pdb
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\GenericsIntro.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\GenericsIntro\obj\Debug\net7.0\ref\GenericsIntro.dll

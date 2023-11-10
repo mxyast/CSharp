@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\bin\Debug\net7.0\Oop3.exe
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\bin\Debug\net7.0\Oop3.deps.json
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\bin\Debug\net7.0\Oop3.runtimeconfig.json
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\bin\Debug\net7.0\Oop3.dll
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\bin\Debug\net7.0\Oop3.pdb
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.dll
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\refint\Oop3.dll
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.pdb
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\Oop3.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\OOP-2HW\Oop3\Oop3\obj\Debug\net7.0\ref\Oop3.dll

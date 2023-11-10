@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\bin\Debug\net7.0\OOPIntro.exe
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\bin\Debug\net7.0\OOPIntro.deps.json
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\bin\Debug\net7.0\OOPIntro.runtimeconfig.json
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\bin\Debug\net7.0\OOPIntro.dll
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\bin\Debug\net7.0\OOPIntro.pdb
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.dll
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\refint\OOPIntro.dll
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.pdb
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\OOPIntro.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\OOPIntro\OOPIntro\obj\Debug\net7.0\ref\OOPIntro.dll

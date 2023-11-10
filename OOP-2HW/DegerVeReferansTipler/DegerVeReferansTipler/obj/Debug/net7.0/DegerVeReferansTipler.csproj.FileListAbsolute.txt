@@ -1,0 +1,14 @@
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.exe
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.deps.json
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.runtimeconfig.json
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.dll
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\bin\Debug\net7.0\DegerVeReferansTipler.pdb
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.dll
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\refint\DegerVeReferansTipler.dll
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.pdb
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\DegerVeReferansTipler.genruntimeconfig.cache
+C:\Tobeto\1A\CSharp\DegerVeReferansTipler\DegerVeReferansTipler\obj\Debug\net7.0\ref\DegerVeReferansTipler.dll
